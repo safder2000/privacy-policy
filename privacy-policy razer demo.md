@@ -8,7 +8,9 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
-app only store data that are uploaded by user and only used for displaying on the useres screen
+app only store data that are uploaded by user and only used for displaying on the useres screen, location infomation used to auto fill the address section
+(user can choose not to use these feature and manually fill the address, all the address are storing just for displaying in application and does not shared to
+any 3 party, and user can delete the saved data at will)
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
@@ -16,13 +18,14 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 This Services does not uses these “cookies” at all 
 
 ### Location Information  
-This app does not require location information hence it wont be collocting any. 
+ location infomation used to auto fill the address section
+(user can choose not to use these feature and manually fill the address, all the address and infomation are storing just for displaying in application and does not shared to any 3rd party, and user can delete the saved data at anytime)
 
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.
 
 
-### Service Providers  
+### Service Providers  v
 We may employ third-party companies and individuals due to the following reasons:  
 * To facilitate our Service;
 * To provide the Service on our behalf;
